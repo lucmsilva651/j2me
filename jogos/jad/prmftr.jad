@@ -1,7 +1,7 @@
 MIDlet-Name: PRMFTR (BR)
 MIDlet-Version: 2.0.0
 MIDlet-Vendor: Living Mobile / lucmsilva
-MIDlet-Jar-URL: /jar/PRMFTR_BR_v2_lucmsilva_fix.jar
+MIDlet-Jar-URL: https://j2me.lucmsilva.com/jar/PRMFTR_BR_v2_lucmsilva_fix.jar
 MIDlet-Jar-Size: 253111
 MicroEdition-Profile: MIDP-2.0
 MicroEdition-Configuration: CLDC-1.1

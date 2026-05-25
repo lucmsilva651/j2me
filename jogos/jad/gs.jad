@@ -1,7 +1,7 @@
 MIDlet-Name: Giana Sisters (PT-BR)
 MIDlet-Version: 2.0.4
 MIDlet-Vendor: Charismatix Development Environment / lucmsilva
-MIDlet-Jar-URL: /jar/GianaSisters_PT-BR_lucmsilva.jar
+MIDlet-Jar-URL: https://j2me.lucmsilva.com/jar/GianaSisters_PT-BR_lucmsilva.jar
 MIDlet-Jar-Size: 136139
 MicroEdition-Profile: MIDP-2.0
 MicroEdition-Configuration: CLDC-1.1
