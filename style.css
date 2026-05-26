@@ -25,6 +25,18 @@ h1 {
   margin-bottom: 10px;
 }
 
+.baixar-row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
 .btn {
   display: block;
   background-color: #0088cc;
